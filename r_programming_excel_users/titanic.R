@@ -1,6 +1,6 @@
 #=========================================================================================
 #
-# File:        titanic.R
+# File:        titanic.R (NK Ver)
 # Author:      Dave Langer
 # Description: This code illustrates R coding used in the "Introduction to R Programming 
 #              for Excel Users" Meetup dated 05/03/2017. More details on 
@@ -32,6 +32,7 @@ titanic$SurvivedLabel <- ifelse(titanic$Survived == 1,
 # Add a new feature (i.e., column) to the data frame for FamilySize
 titanic$FamilySize <- 1 + titanic$SibSp + titanic$Parch
 View(titanic)
+plot(titanic)
 
 
 # Look at the data types (i.e., R's version of Excel data formatting for cells)

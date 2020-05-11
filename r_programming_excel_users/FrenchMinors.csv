@@ -1,0 +1,67 @@
+"","PassengerId","Survived","Pclass","Name","Sex","Age","SibSp","Parch","Ticket","Fare","Cabin","Embarked","SurvivedLabel","FamilySize","Nationality","SeniorLabel"
+"10",10,1,2,"Nasser, Mrs. Nicholas (Adele Achem)","female",14,1,0,"237736",30.0708,"","C","Survived",2,"French","Minor"
+"NA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40",40,1,3,"Nicola-Yarred, Miss. Jamila","female",14,1,0,"2651",11.2417,"","C","Survived",2,"French","Minor"
+"NA.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44",44,1,2,"Laroche, Miss. Simonne Marie Anne Andree","female",3,1,2,"SC/Paris 2123",41.5792,"","C","Survived",4,"French","Minor"
+"NA.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112",112,0,3,"Zabour, Miss. Hileni","female",14.5,1,0,"2665",14.4542,"","C","Died",2,"French","Minor"
+"115",115,0,3,"Attalah, Miss. Malake","female",17,0,0,"2627",14.4583,"","C","Died",1,"French","Minor"
+"126",126,1,3,"Nicola-Yarred, Master. Elias","male",12,1,0,"2651",11.2417,"","C","Survived",2,"French","Minor"
+"NA.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"308",308,1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)","female",17,1,0,"PC 17758",108.9,"C65","C","Survived",2,"French","Minor"
+"312",312,1,1,"Ryerson, Miss. Emily Borie","female",18,2,2,"PC 17608",262.375,"B57 B59 B63 B66","C","Survived",5,"French","Minor"
+"330",330,1,1,"Hippach, Miss. Jean Gertrude","female",16,0,1,"111361",57.9792,"B18","C","Survived",2,"French","Minor"
+"353",353,0,3,"Elias, Mr. Tannous","male",15,1,1,"2695",7.2292,"","C","Died",3,"French","Minor"
+"NA.15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"382",382,1,3,"Nakid, Miss. Maria (""Mary"")","female",1,0,2,"2653",15.7417,"","C","Survived",3,"French","Minor"
+"390",390,1,2,"Lehmann, Miss. Bertha","female",17,0,0,"SC 1748",12,"","C","Survived",1,"French","Minor"
+"NA.18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"449",449,1,3,"Baclini, Miss. Marie Catherine","female",5,2,1,"2666",19.2583,"","C","Survived",4,"French","Minor"
+"470",470,1,3,"Baclini, Miss. Helene Barbara","female",0.75,2,1,"2666",19.2583,"","C","Survived",4,"French","Minor"
+"NA.19",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"506",506,0,1,"Penasco y Castellana, Mr. Victor de Satode","male",18,1,0,"PC 17758",108.9,"C65","C","Died",2,"French","Minor"
+"NA.20",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.21",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.22",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"533",533,0,3,"Elias, Mr. Joseph Jr","male",17,1,1,"2690",7.2292,"","C","Died",3,"French","Minor"
+"NA.23",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.24",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"551",551,1,1,"Thayer, Mr. John Borland Jr","male",17,0,2,"17421",110.8833,"C70","C","Survived",3,"French","Minor"
+"NA.25",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.26",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.27",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.28",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.29",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"645",645,1,3,"Baclini, Miss. Eugenie","female",0.75,2,1,"2666",19.2583,"","C","Survived",4,"French","Minor"
+"692",692,1,3,"Karun, Miss. Manca","female",4,0,1,"349256",13.4167,"","C","Survived",2,"French","Minor"
+"701",701,1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)","female",18,1,0,"PC 17757",227.525,"C62 C64","C","Survived",2,"French","Minor"
+"703",703,0,3,"Barbara, Miss. Saiide","female",18,0,1,"2691",14.4542,"","C","Died",2,"French","Minor"
+"NA.30",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"732",732,0,3,"Hassan, Mr. Houssein G N","male",11,0,0,"2699",18.7875,"","C","Died",1,"French","Minor"
+"NA.31",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.32",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"781",781,1,3,"Ayoub, Miss. Banoura","female",13,0,0,"2687",7.2292,"","C","Survived",1,"French","Minor"
+"NA.33",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"804",804,1,3,"Thomas, Master. Assad Alexander","male",0.42,0,1,"2625",8.5167,"","C","Survived",2,"French","Minor"
+"828",828,1,2,"Mallet, Master. Andre","male",1,0,2,"S.C./PARIS 2079",37.0042,"","C","Survived",3,"French","Minor"
+"831",831,1,3,"Yasbeck, Mrs. Antoni (Selini Alexander)","female",15,1,0,"2659",14.4542,"","C","Survived",2,"French","Minor"
+"NA.34",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"NA.36",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"853",853,0,3,"Boulos, Miss. Nourelain","female",9,1,1,"2678",15.2458,"","C","Died",3,"French","Minor"
+"NA.37",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"876",876,1,3,"Najib, Miss. Adele Kiamie ""Jane""","female",15,0,0,"2667",7.225,"","C","Survived",1,"French","Minor"
